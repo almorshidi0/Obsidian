@@ -1,0 +1,5 @@
+[[Chapter 1, Course Introduction]]
+[[Chapter 2, Installation Basics]]
+[[Chapter 3, Fundamentals of Maven]]
+[[Chapter 4, Working with Maven in IDEs]]
+[[Chapter 5, Wrapping Up]]

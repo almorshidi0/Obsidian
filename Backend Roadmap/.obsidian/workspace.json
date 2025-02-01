@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "e758f0df8ea46a45",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd9233f2db76464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b3e93334fae0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2, Object-Oriented Programming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2d631877b6422e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff7bf87ede1f7503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f764cecb5aa546e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35575b8ea0bb2a64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b91bebee8c4f87e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d44d2cae96b0494",
+    "type": "split",
+    "children": [
+      {
+        "id": "0afb84fd71b8d397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428d21e12bfa5301",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 2, Object-Oriented Programming"
+            }
+          },
+          {
+            "id": "f2e4ce87e73409c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2, Object-Oriented Programming"
+            }
+          },
+          {
+            "id": "0ff19d961775abdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "725298dd99ffc631",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 2, Object-Oriented Programming"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b8b3e93334fae0a0",
+  "lastOpenFiles": [
+    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 1, Fundamental Programming Structures.md",
+    "Phase 1/Your First Programming Language/Java/Computer Science, Programming with a Purpose/Computer Science, Programming with a Purpose.md",
+    "Phase 1/Your First Programming Language/Java/Apache Maven, A Practical Introduction/Apache Maven, A Practical Introduction.md",
+    "Phase 1/Reading List/How a Computer Works - from silicon to apps.md",
+    "Phase 1/Reading List/GWU Operating Systems, Fall 2020/L1, GWU OS, System Architecture, System Calls.md",
+    "Phase 1/Reading List/GWU Operating Systems, Fall 2020/GWU Operating Systems, Fall 2020.md",
+    "Phase 1/Reading List/Crash Course Computer Science/Crash Course Computer Science.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Developer Tools to Be Dangerous.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 8, Getting Started with Git.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 7, Advanced Text Editing.md",
+    "Phase 1/Code Tools/Code Tools.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 1, Basics.md",
+    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 6, Modern Text Editors.md",
+    "Phase 1/Your First Programming Language/Java/Apache Maven, A Practical Introduction/Apache Maven, A Practical Introduction.wav",
+    "Welcome.md",
+    "Phase 1/Your First Programming Language/Java/Computer Science, Programming with a Purpose/CS, Programming with a Purpose.wav",
+    "Phase 1/Reading List/Crash Course Computer Science/V12, Programming Basics, Statements & Functions.md",
+    "Phase 1/Reading List/Reading List.md",
+    "Phase 1/Reading List/GWU Operating Systems, Fall 2020",
+    "Phase 1/Reading List/Crash Course Computer Science/V11, The First Programming Languages.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 11, Collaborating.md",
+    "Phase 1/Reading List/Crash Course Computer Science/V10, Early Programming.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Git to Be Dangerous.wav",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Git to Be Dangerous.wav.crdownload",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Text Editors to Be Dangerous.wav",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Text Editors to Be Dangerous.wav.crdownload",
+    "Phase 1/Phase 1.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Command Line to Be Dangerous.wav",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Command Line to Be Dangerous.wav.crdownload",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 10, Intermediate Workflow.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 9, Backing Up and Sharing.md",
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 5, Introduction to Text Editors.md",
+    "Phase 1/Your First Programming Language/Java/Java.md",
+    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Core Java For The Impatient, 4th Edition.md",
+    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter2.wav"
+  ]
+}

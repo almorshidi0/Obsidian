@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "6126f541bc79baec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a12b4748547113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8928696d285b1b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b694d452938aad9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71e9024f4ae9c77e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a64c95cb25e5103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1262bbf53b2f972d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "473d5e65a06a4078",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "159ce38f01f478cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c98c12c2ed2cfb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f1f7b046238078c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Foundations/Foundations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Foundations"
+            }
+          },
+          {
+            "id": "11d8ed9b8f208d08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Foundations/Foundations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Foundations"
+            }
+          },
+          {
+            "id": "65a38fe190dac9ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06934b63ccd108f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Foundations/Foundations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Foundations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8928696d285b1b01",
+  "lastOpenFiles": [
+    "Foundations/Foundations.md",
+    "Foundations/Git Basics.md",
+    "Foundations/Foundations.wav",
+    "Foundations/The Odin Project.wav.crdownload",
+    "Foundations/Conclusion.md",
+    "Foundations/JavaScript Basics.md",
+    "Foundations/Flexbox.md",
+    "Foundations/CSS Foundations.md",
+    "Foundations/HTML Foundations.md",
+    "Foundations/Prerequisites.md",
+    "Foundations/Introduction.md",
+    "Foundations/Untitled",
+    "Welcome.md",
+    "Full Stack JavaScript/Full Stack JavaScript.md",
+    "Full Stack JavaScript",
+    "Foundations"
+  ]
+}
