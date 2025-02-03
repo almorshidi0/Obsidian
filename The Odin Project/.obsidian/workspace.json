@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4a12b4748547113",
+        "id": "8f309a586c127b79",
         "type": "tabs",
         "children": [
           {
-            "id": "8928696d285b1b01",
+            "id": "1459a4e14b377b24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -168,21 +164,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8928696d285b1b01",
+  "active": "1459a4e14b377b24",
   "lastOpenFiles": [
+    "Foundations/How to Write a Git Commit Message.md",
+    "Foundations/HTML Foundations.md",
     "Foundations/Foundations.md",
     "Foundations/Git Basics.md",
+    "Welcome.md",
     "Foundations/Foundations.wav",
     "Foundations/The Odin Project.wav.crdownload",
     "Foundations/Conclusion.md",
     "Foundations/JavaScript Basics.md",
     "Foundations/Flexbox.md",
     "Foundations/CSS Foundations.md",
-    "Foundations/HTML Foundations.md",
     "Foundations/Prerequisites.md",
     "Foundations/Introduction.md",
     "Foundations/Untitled",
-    "Welcome.md",
     "Full Stack JavaScript/Full Stack JavaScript.md",
     "Full Stack JavaScript",
     "Foundations"

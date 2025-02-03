@@ -1,1 +1,0 @@
-[[L1, GWU OS, System Architecture, System Calls]]

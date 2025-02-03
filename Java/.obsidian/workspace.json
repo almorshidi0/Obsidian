@@ -11,10 +11,14 @@
             "id": "2bf7332ee7ee4e13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
             }
           }
         ]
@@ -160,6 +164,15 @@
   },
   "active": "2bf7332ee7ee4e13",
   "lastOpenFiles": [
+    "JUnit and Mockito Unit Testing for Java Developers/JUnit and Mockito Unit Testing for Java Developers.md",
+    "JUnit and Mockito Unit Testing for Java Developers/Section 5, Unit Testing with Mock Objects and Mockito.md",
+    "JUnit and Mockito Unit Testing for Java Developers/Section 4, Writing and Running Unit Tests with JUnit and IntelliJ IDEA.md",
+    "JUnit and Mockito Unit Testing for Java Developers/Section 3, Creating a Java Project which uses JUnit.md",
+    "JUnit and Mockito Unit Testing for Java Developers/Section 2, Unit Testing Foundations.md",
+    "JUnit and Mockito Unit Testing for Java Developers/Section 2, Unit Testing Foundations.txt",
+    "JUnit and Mockito Unit Testing for Java Developers/Section 6, Looking at the Hamcrest Assertions Library.md",
+    "JUnit and Mockito Unit Testing for Java Developers/Section 1, Introduction.md",
+    "JUnit and Mockito Unit Testing for Java Developers",
     "Welcome.md",
     "Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
     "Core Java For The Impatient, 4th Edition/Chapter 1, Fundamental Programming Structures.md",
@@ -184,17 +197,8 @@
     "Computer Science, Programming with a Purpose",
     "Media/Chapter2.wav",
     "Media/Core Java For The Impatient.wav.crdownload",
-    "Media/Chapter1.wav",
-    "Media/Chapter 1.wav",
     "Pasted image 20250129201659.png",
     "Chapter1.wav.md",
-    "Courses/Crash Course Computer Science/V10, Early Programming.md",
-    "Courses/Crash Course Computer Science/Crash Course Computer Science.md",
-    "Courses/Crash Course Computer Science/V8, Instructions & Programs.md",
-    "Courses/Crash Course Computer Science/V9, Advanced CPU Designs.md",
-    "Courses/Crash Course Computer Science/V7, The Central Processing Unit (CPU).md",
-    "Courses/Crash Course Computer Science/V1, Early Computing.md",
-    "Courses/Crash Course Computer Science/V2, Electronic Computing.md",
-    "Courses/Crash Course Computer Science/V3, Boolean Logic & Logic Gates.md"
+    "Courses/Crash Course Computer Science/V10, Early Programming.md"
   ]
 }

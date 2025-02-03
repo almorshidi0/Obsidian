@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fcd9233f2db76464",
+        "id": "74587d2fba9cb32f",
         "type": "tabs",
         "children": [
           {
-            "id": "b8b3e93334fae0a0",
+            "id": "e812d08e3f6fbcd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
-                "mode": "source",
+                "file": "Phase 1/Reading List/The Missing Semester of Your CS Education/Lecture 1, Course Overview + The Shell.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter 2, Object-Oriented Programming"
+              "title": "Lecture 1, Course Overview + The Shell"
             }
           }
         ]
@@ -169,43 +169,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8b3e93334fae0a0",
+  "active": "e812d08e3f6fbcd8",
   "lastOpenFiles": [
+    "Phase 1/Reading List/The Missing Semester of Your CS Education/The Missing Semester of Your CS Education.md",
+    "Phase 1/Reading List/The Missing Semester of Your CS Education/Lecture 1, Course Overview + The Shell.md",
+    "Phase 1/Phase 1.md",
+    "Phase 1/Reading List/The Missing Semester of Your CS Education",
+    "Phase 1/Reading List/Reading List.md",
+    "Phase 1/Reading List/Crash Course Computer Science/Crash Course Computer Science.md",
+    "Phase 1/Reading List/Crash Course Computer Science/V15, Alan Turing.md",
+    "Phase 1/Reading List/Crash Course Computer Science/V14, Data Structures.md",
+    "Phase 1/Reading List/Crash Course Computer Science/V13, Intro to Algorithms.md",
+    "Phase 1/Your First Programming Language/Java/JUnit and Mockito Unit Testing for Java Developers/Section 1, Introduction.md",
+    "Phase 1/Your First Programming Language/Java/JUnit and Mockito Unit Testing for Java Developers/JUnit and Mockito Unit Testing for Java Developers.md",
+    "Phase 1/Your First Programming Language/Java/Java.md",
+    "Phase 1/Your First Programming Language/Your First Programming Language.md",
+    "Welcome.md",
+    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
     "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 1, Fundamental Programming Structures.md",
     "Phase 1/Your First Programming Language/Java/Computer Science, Programming with a Purpose/Computer Science, Programming with a Purpose.md",
     "Phase 1/Your First Programming Language/Java/Apache Maven, A Practical Introduction/Apache Maven, A Practical Introduction.md",
     "Phase 1/Reading List/How a Computer Works - from silicon to apps.md",
     "Phase 1/Reading List/GWU Operating Systems, Fall 2020/L1, GWU OS, System Architecture, System Calls.md",
     "Phase 1/Reading List/GWU Operating Systems, Fall 2020/GWU Operating Systems, Fall 2020.md",
-    "Phase 1/Reading List/Crash Course Computer Science/Crash Course Computer Science.md",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Developer Tools to Be Dangerous.md",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 8, Getting Started with Git.md",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 7, Advanced Text Editing.md",
     "Phase 1/Code Tools/Code Tools.md",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 1, Basics.md",
-    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 6, Modern Text Editors.md",
     "Phase 1/Your First Programming Language/Java/Apache Maven, A Practical Introduction/Apache Maven, A Practical Introduction.wav",
-    "Welcome.md",
     "Phase 1/Your First Programming Language/Java/Computer Science, Programming with a Purpose/CS, Programming with a Purpose.wav",
-    "Phase 1/Reading List/Crash Course Computer Science/V12, Programming Basics, Statements & Functions.md",
-    "Phase 1/Reading List/Reading List.md",
     "Phase 1/Reading List/GWU Operating Systems, Fall 2020",
-    "Phase 1/Reading List/Crash Course Computer Science/V11, The First Programming Languages.md",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 11, Collaborating.md",
-    "Phase 1/Reading List/Crash Course Computer Science/V10, Early Programming.md",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Git to Be Dangerous.wav",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Git to Be Dangerous.wav.crdownload",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Text Editors to Be Dangerous.wav",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Text Editors to Be Dangerous.wav.crdownload",
-    "Phase 1/Phase 1.md",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Command Line to Be Dangerous.wav",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Command Line to Be Dangerous.wav.crdownload",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 10, Intermediate Workflow.md",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 9, Backing Up and Sharing.md",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 5, Introduction to Text Editors.md",
-    "Phase 1/Your First Programming Language/Java/Java.md",
-    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Core Java For The Impatient, 4th Edition.md",
-    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter2.wav"
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Command Line to Be Dangerous.wav.crdownload"
   ]
 }

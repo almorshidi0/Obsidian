@@ -10,3 +10,6 @@
 [[V10, Early Programming]]
 [[V11, The First Programming Languages]]
 [[V12, Programming Basics, Statements & Functions]]
+[[V13, Intro to Algorithms]]
+[[V14, Data Structures]]
+[[V15, Alan Turing]]
