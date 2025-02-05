@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74587d2fba9cb32f",
+        "id": "526dc4b9234c82b1",
         "type": "tabs",
         "children": [
           {
-            "id": "e812d08e3f6fbcd8",
+            "id": "aff7eaf4cee52907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phase 1/Reading List/The Missing Semester of Your CS Education/Lecture 1, Course Overview + The Shell.md",
+                "file": "Phase 2/OO/The Object Oriented Thought Process/The Object Oriented Thought Process.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 1, Course Overview + The Shell"
+              "title": "The Object Oriented Thought Process"
             }
           }
         ]
@@ -169,43 +169,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e812d08e3f6fbcd8",
+  "active": "aff7eaf4cee52907",
   "lastOpenFiles": [
-    "Phase 1/Reading List/The Missing Semester of Your CS Education/The Missing Semester of Your CS Education.md",
-    "Phase 1/Reading List/The Missing Semester of Your CS Education/Lecture 1, Course Overview + The Shell.md",
-    "Phase 1/Phase 1.md",
-    "Phase 1/Reading List/The Missing Semester of Your CS Education",
+    "Phase 2/OO/The Object Oriented Thought Process/Chapter 01, Introduction to Object-Oriented Concepts.md",
+    "Phase 2/OO/The Object Oriented Thought Process/Introduction.md",
+    "Phase 2/OO/The Object Oriented Thought Process/The Object Oriented Thought Process.md",
+    "Phase 1/Reading List/Crash Course Computer Science/V17, Integrated Circuits & Moore's Law.md",
+    "Phase 2/OO/OO.md",
+    "Phase 2/Phase 2.md",
+    "Phase 2/OO/The Object Oriented Thought Process",
+    "Phase 2/OO",
     "Phase 1/Reading List/Reading List.md",
+    "Phase 1/Code Tools/Code Tools.md",
+    "Phase 1/Code Tools/The Missing Semester of Your CS Education/Lecture 2, Shell Tools and Scripting.md",
+    "Phase 1/Code Tools/The Missing Semester of Your CS Education/Lecture 1, Course Overview + The Shell.md",
+    "Phase 1/Code Tools/The Missing Semester of Your CS Education/The Missing Semester of Your CS Education.md",
+    "Phase 2/Reading List/Reading List.md",
     "Phase 1/Reading List/Crash Course Computer Science/Crash Course Computer Science.md",
+    "Phase 1/Reading List/Crash Course Computer Science/V16, Software Engineering.md",
+    "Phase 1/Your First Programming Language/Java/Java.md",
+    "Phase 1/Your First Programming Language/Java/JUnit and Mockito Unit Testing for Java Developers/Section 5, Unit Testing with Mock Objects and Mockito.md",
+    "Phase 1/Your First Programming Language/Java/JUnit and Mockito Unit Testing for Java Developers/JUnit and Mockito Unit Testing for Java Developers.md",
+    "Phase 1/Your First Programming Language/Java/JUnit and Mockito Unit Testing for Java Developers/Section 4, Writing and Running Unit Tests with JUnit and IntelliJ IDEA.md",
+    "Phase 1/Your First Programming Language/Java/JUnit and Mockito Unit Testing for Java Developers/Section 6, Looking at the Hamcrest Assertions Library.md",
+    "Phase 1/Phase 1.md",
+    "Phase 1/Code Tools/The Missing Semester of Your CS Education",
     "Phase 1/Reading List/Crash Course Computer Science/V15, Alan Turing.md",
     "Phase 1/Reading List/Crash Course Computer Science/V14, Data Structures.md",
     "Phase 1/Reading List/Crash Course Computer Science/V13, Intro to Algorithms.md",
     "Phase 1/Your First Programming Language/Java/JUnit and Mockito Unit Testing for Java Developers/Section 1, Introduction.md",
-    "Phase 1/Your First Programming Language/Java/JUnit and Mockito Unit Testing for Java Developers/JUnit and Mockito Unit Testing for Java Developers.md",
-    "Phase 1/Your First Programming Language/Java/Java.md",
     "Phase 1/Your First Programming Language/Your First Programming Language.md",
     "Welcome.md",
-    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 2, Object-Oriented Programming.md",
-    "Phase 1/Your First Programming Language/Java/Core Java For The Impatient, 4th Edition/Chapter 1, Fundamental Programming Structures.md",
-    "Phase 1/Your First Programming Language/Java/Computer Science, Programming with a Purpose/Computer Science, Programming with a Purpose.md",
-    "Phase 1/Your First Programming Language/Java/Apache Maven, A Practical Introduction/Apache Maven, A Practical Introduction.md",
-    "Phase 1/Reading List/How a Computer Works - from silicon to apps.md",
-    "Phase 1/Reading List/GWU Operating Systems, Fall 2020/L1, GWU OS, System Architecture, System Calls.md",
-    "Phase 1/Reading List/GWU Operating Systems, Fall 2020/GWU Operating Systems, Fall 2020.md",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Developer Tools to Be Dangerous.md",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 8, Getting Started with Git.md",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 7, Advanced Text Editing.md",
-    "Phase 1/Code Tools/Code Tools.md",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 1, Basics.md",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Chapter 6, Modern Text Editors.md",
     "Phase 1/Your First Programming Language/Java/Apache Maven, A Practical Introduction/Apache Maven, A Practical Introduction.wav",
     "Phase 1/Your First Programming Language/Java/Computer Science, Programming with a Purpose/CS, Programming with a Purpose.wav",
     "Phase 1/Reading List/GWU Operating Systems, Fall 2020",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Git to Be Dangerous.wav",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Git to Be Dangerous.wav.crdownload",
     "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Text Editors to Be Dangerous.wav",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Text Editors to Be Dangerous.wav.crdownload",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Command Line to Be Dangerous.wav",
-    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Command Line to Be Dangerous.wav.crdownload"
+    "Phase 1/Code Tools/Learn Enough Developer Tools to Be Dangerous/Learn Enough Text Editors to Be Dangerous.wav.crdownload"
   ]
 }

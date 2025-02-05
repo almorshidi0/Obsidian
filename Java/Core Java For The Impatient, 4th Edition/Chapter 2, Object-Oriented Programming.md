@@ -1,4 +1,4 @@
-This chapter dives into the core of object-oriented programming (OOP) in Java.  It explains how to create and use objects, define classes, and organize code effectively. 
+This chapter dives into the core of object-oriented programming (OOP) in Java.  It explains how to create and use objects, define classes, and organize code effectively.
 
 ## Core Concepts 💡
 
