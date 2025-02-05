@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phase 2/OO/The Object Oriented Thought Process/The Object Oriented Thought Process.md",
+                "file": "Phase 1/Reading List/Crash Course Computer Science/Crash Course Computer Science.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Object Oriented Thought Process"
+              "title": "Crash Course Computer Science"
             }
           }
         ]
@@ -171,9 +171,9 @@
   },
   "active": "aff7eaf4cee52907",
   "lastOpenFiles": [
+    "Phase 2/OO/The Object Oriented Thought Process/The Object Oriented Thought Process.md",
     "Phase 2/OO/The Object Oriented Thought Process/Chapter 01, Introduction to Object-Oriented Concepts.md",
     "Phase 2/OO/The Object Oriented Thought Process/Introduction.md",
-    "Phase 2/OO/The Object Oriented Thought Process/The Object Oriented Thought Process.md",
     "Phase 1/Reading List/Crash Course Computer Science/V17, Integrated Circuits & Moore's Law.md",
     "Phase 2/OO/OO.md",
     "Phase 2/Phase 2.md",
